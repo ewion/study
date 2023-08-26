@@ -1,3 +1,5 @@
+package CoingTests;
+
 public class CodingTest12 {
     public static void main(String[] args) {
 //        flag에따라 값 변환

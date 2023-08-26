@@ -1,3 +1,5 @@
+package CoingTests;
+
 public class CodingTest8 {
     public static void main(String[] args) {
         int answer = 0;

@@ -1,3 +1,5 @@
+package CoingTests;
+
 public class CodingTest10 {
     public static void main(String[] args) {
         // 홀짝에따라 다른값 반환

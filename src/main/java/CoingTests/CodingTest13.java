@@ -1,3 +1,5 @@
+package CoingTests;
+
 public class CodingTest13 {
     public static void main(String[] args) {
         // 주사위 게임

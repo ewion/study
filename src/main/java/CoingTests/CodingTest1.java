@@ -1,3 +1,5 @@
+package CoingTests;
+
 public class CodingTest1 {
     public static void main(String[] args) {
         String str1 = "aaaaa";

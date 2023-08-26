@@ -1,3 +1,5 @@
+package CoingTests;
+
 public class CodingTest5 {
 
     public static void main(String[] args) {
