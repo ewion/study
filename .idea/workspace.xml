@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/DesignPattern1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JSP/JSP4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JSP/JSP5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/컴퓨터구조/구조1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/컴퓨터구조/구조2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CoingTests/CodingTest13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoingTests/CodingTest13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JSP/JSP5" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JSP/JSP5" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +122,8 @@
       <workItem from="1693020422843" duration="1184000" />
       <workItem from="1693826730568" duration="1232000" />
       <workItem from="1693971057441" duration="8071000" />
-      <workItem from="1694058649003" duration="30000" />
+      <workItem from="1694058649003" duration="2524000" />
+      <workItem from="1694064076889" duration="1529000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -181,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693020480217</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="230907 study">
+      <created>1694058699931</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694058699931</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +190,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="230813" />
     <MESSAGE value="230826" />
-    <option name="LAST_COMMIT_MESSAGE" value="230826" />
+    <MESSAGE value="230907 study" />
+    <option name="LAST_COMMIT_MESSAGE" value="230907 study" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
