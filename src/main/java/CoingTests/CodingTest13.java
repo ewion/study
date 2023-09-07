@@ -12,11 +12,6 @@ public class CodingTest13 {
         int a = 2;
         int b = 6;
         int c = 1;
-        if() {
-
-        }
-        System.out.println(answer);
-
         }
 
 }
