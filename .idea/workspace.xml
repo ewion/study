@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조2_배열" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조3_스택" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조4_큐" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,6 +134,7 @@
       <workItem from="1694411791798" duration="609000" />
       <workItem from="1694493836067" duration="4486000" />
       <workItem from="1695607325540" duration="8934000" />
+      <workItem from="1695700350831" duration="8097000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
