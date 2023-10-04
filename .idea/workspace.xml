@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tobys_Spring_Boot/section2_스프링부트시작하기" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템2_설치" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템3_셸사용" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조5_연결리스트" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조6_연결리스트응용" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조7_트리" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조8_확장된트리구조1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템4_파일과디렉터리" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템6_사용자관리" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템3_셸사용" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템3_셸사용" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +142,7 @@
       <workItem from="1695780508593" duration="2488000" />
       <workItem from="1696234305792" duration="2172000" />
       <workItem from="1696322483958" duration="6243000" />
-      <workItem from="1696394485666" duration="1691000" />
+      <workItem from="1696394485666" duration="10298000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -233,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694536573441</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="231004 UINX">
+      <created>1696396202865</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696396202865</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +249,8 @@
     <MESSAGE value="230909 study" />
     <MESSAGE value="230910 study" />
     <MESSAGE value="230913 study" />
-    <option name="LAST_COMMIT_MESSAGE" value="230913 study" />
+    <MESSAGE value="231004 UINX" />
+    <option name="LAST_COMMIT_MESSAGE" value="231004 UINX" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
