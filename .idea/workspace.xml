@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조3_스택" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조4_큐" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tobys_Spring_Boot/section2_스프링부트시작하기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템2_설치" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템3_셸사용" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조5_연결리스트" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조6_연결리스트응용" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조7_트리" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조8_확장된트리구조1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +87,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\javapro\Study\src\main\java\Tobys_Spring_Boot" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="org.example" />
@@ -135,6 +144,10 @@
       <workItem from="1694493836067" duration="4486000" />
       <workItem from="1695607325540" duration="8934000" />
       <workItem from="1695700350831" duration="8097000" />
+      <workItem from="1695780508593" duration="2488000" />
+      <workItem from="1696234305792" duration="2172000" />
+      <workItem from="1696322483958" duration="6243000" />
+      <workItem from="1696394485666" duration="1691000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
