@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템9_프로세스관리" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템1" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,7 @@
       <workItem from="1696234305792" duration="2172000" />
       <workItem from="1696322483958" duration="6243000" />
       <workItem from="1696394485666" duration="10402000" />
-      <workItem from="1696560806062" duration="5325000" />
+      <workItem from="1696560806062" duration="10587000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -241,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696442122269</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="231006 UINX9">
+      <created>1696582392770</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696582392770</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +264,8 @@
     <MESSAGE value="230913 study" />
     <MESSAGE value="231004 UINX" />
     <MESSAGE value="231005 UINX1" />
-    <option name="LAST_COMMIT_MESSAGE" value="231005 UINX1" />
+    <MESSAGE value="231006 UINX9" />
+    <option name="LAST_COMMIT_MESSAGE" value="231006 UINX9" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
