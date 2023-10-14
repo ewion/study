@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래밍언어론/PL4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템1" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UNIX시스템/UNIX시스템1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,10 @@
       <workItem from="1696234305792" duration="2172000" />
       <workItem from="1696322483958" duration="6243000" />
       <workItem from="1696394485666" duration="10402000" />
-      <workItem from="1696560806062" duration="10587000" />
+      <workItem from="1696560806062" duration="10606000" />
+      <workItem from="1696659768159" duration="1390000" />
+      <workItem from="1696755134552" duration="3164000" />
+      <workItem from="1697187529586" duration="8275000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -248,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696582392770</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="231007 UINX">
+      <created>1696610835895</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696610835895</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,7 +275,8 @@
     <MESSAGE value="231004 UINX" />
     <MESSAGE value="231005 UINX1" />
     <MESSAGE value="231006 UINX9" />
-    <option name="LAST_COMMIT_MESSAGE" value="231006 UINX9" />
+    <MESSAGE value="231007 UINX" />
+    <option name="LAST_COMMIT_MESSAGE" value="231007 UINX" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
