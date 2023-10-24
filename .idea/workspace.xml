@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tobys_Spring_Boot/sec3-5_프론트컨트롤러" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/컴퓨터과학개론/13.DB1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JSP/JSP6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/컴퓨터과학개론/15.컴퓨터네트워크" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tobys_Spring_Boot/section2_스프링부트시작하기" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tobys_Spring_Boot/sec2-1_스프링부트시작" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +149,8 @@
       <workItem from="1697358780451" duration="3240000" />
       <workItem from="1697613264368" duration="760000" />
       <workItem from="1697700125426" duration="438000" />
-      <workItem from="1697783865958" duration="1888000" />
+      <workItem from="1697783865958" duration="2513000" />
+      <workItem from="1698124004788" duration="6501000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -271,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697281961887</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="231020 cs">
+      <created>1697802283767</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1697802283767</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +297,8 @@
     <MESSAGE value="231006 UINX9" />
     <MESSAGE value="231007 UINX" />
     <MESSAGE value="231014 PL" />
-    <option name="LAST_COMMIT_MESSAGE" value="231014 PL" />
+    <MESSAGE value="231020 cs" />
+    <option name="LAST_COMMIT_MESSAGE" value="231020 cs" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
