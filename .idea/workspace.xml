@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JSP/JSP6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/컴퓨터과학개론/15.컴퓨터네트워크" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CoingTests/CodingTest15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CoingTests/CodingTest16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CoingTests/CodingTest17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CoingTests/CodingTest18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CoingTests/CodingTest19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tobys_Spring_Boot/sec4-2_의존오브젝트 추가" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/자료구조/자료구조1" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/자료구조/자료구조1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +90,7 @@
       <recent name="C:\javapro\Study\src\main\java\Tobys_Spring_Boot" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CoingTests" />
       <recent name="" />
       <recent name="org.example" />
     </key>
@@ -150,7 +156,9 @@
       <workItem from="1697613264368" duration="760000" />
       <workItem from="1697700125426" duration="438000" />
       <workItem from="1697783865958" duration="2513000" />
-      <workItem from="1698124004788" duration="6501000" />
+      <workItem from="1698124004788" duration="7142000" />
+      <workItem from="1698252916637" duration="1284000" />
+      <workItem from="1698291265136" duration="7921000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -278,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697802283767</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="231020 cs">
+      <created>1698159943280</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1698159943280</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
