@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tobys_Spring_Boot/sec2-1_스프링부트시작" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UNIX시스템/Tobys_Spring_Boot/sec2-1_스프링부트시작" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tobys_Spring_Boot/sec3-5_프론트컨트롤러" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UNIX시스템/Tobys_Spring_Boot/sec3-5_프론트컨트롤러" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tobys_Spring_Boot/sec4-2_의존오브젝트 추가" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UNIX시스템/Tobys_Spring_Boot/sec4-2_의존오브젝트 추가" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +154,7 @@
       <workItem from="1698124004788" duration="7142000" />
       <workItem from="1698252916637" duration="1284000" />
       <workItem from="1698291265136" duration="8539000" />
-      <workItem from="1698441858541" duration="436000" />
+      <workItem from="1698441858541" duration="765000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -294,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698335988402</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="231028 cs">
+      <created>1698442572099</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1698442572099</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +323,8 @@
     <MESSAGE value="231007 UINX" />
     <MESSAGE value="231014 PL" />
     <MESSAGE value="231020 cs" />
-    <option name="LAST_COMMIT_MESSAGE" value="231020 cs" />
+    <MESSAGE value="231028 cs" />
+    <option name="LAST_COMMIT_MESSAGE" value="231028 cs" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
