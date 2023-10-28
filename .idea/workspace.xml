@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tobys_Spring_Boot/sec2-1_스프링부트시작" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UNIX시스템/Tobys_Spring_Boot/sec2-1_스프링부트시작" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tobys_Spring_Boot/sec3-5_프론트컨트롤러" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UNIX시스템/Tobys_Spring_Boot/sec3-5_프론트컨트롤러" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tobys_Spring_Boot/sec4-2_의존오브젝트 추가" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UNIX시스템/Tobys_Spring_Boot/sec4-2_의존오브젝트 추가" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/자료구조/자료구조2_배열" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/자료구조/자료구조2_배열" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/자료구조/자료구조3_스택" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/자료구조/자료구조3_스택" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +82,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\javapro\Study\src\main" />
       <recent name="C:\javapro\Study\src\main\java\Tobys_Spring_Boot" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -155,6 +156,7 @@
       <workItem from="1698252916637" duration="1284000" />
       <workItem from="1698291265136" duration="8539000" />
       <workItem from="1698441858541" duration="765000" />
+      <workItem from="1698442643371" duration="4188000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -303,7 +305,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698442572099</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="231028 cs">
+      <created>1698442695783</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1698442695783</updated>
+    </task>
+    <task id="LOCAL-00023" summary="231028 cs">
+      <created>1698442721095</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1698442721095</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
