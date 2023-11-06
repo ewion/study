@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/JSP/JSP10_JDBC를이용한DB프로그래밍" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/JSP/JSP11_DAOnDTO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JSP/JSP14_표준태그라이브러리" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +159,8 @@
       <workItem from="1698624891422" duration="4774000" />
       <workItem from="1698736671609" duration="8764000" />
       <workItem from="1698846356294" duration="3416000" />
-      <workItem from="1699093442693" duration="1212000" />
+      <workItem from="1699093442693" duration="1953000" />
+      <workItem from="1699273827338" duration="6476000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -351,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698756388314</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="231031 jsp">
+      <created>1699097067213</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1699097067213</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
