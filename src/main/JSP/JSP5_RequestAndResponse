@@ -30,15 +30,15 @@ response 객체를 이용하여 다른 페이지로 이동, 상태 코드 설정
 
  2) 클라이언트 및 요청 관련 정보 읽기
  메서드
- getRemoteAddr() return String 클라이언트 컴퓨터의 ip주소 리턴
- getContentLength() return long 클라이언트가 전송한 요청몸체의 길이 리턴
- getCharacterEncoding() return String 클라이언트가 요청몸체를 전송할 때 사용한 문자열 인코딩을 리턴
- getContentType() return String 클라이언트가 요청 몸체를 전송 할 때 사용한 문서타입을 리턴
- getProtocol() return String 클라이언트가 요청에서 사용한 프로토콜을 리턴
- getMethod() return String 클라이언트가 데이터를 전송할 때 사용한 요청방식 리턴
- getContextPath() return String JSP페이지가 속한 웹애플리케이션의 경로를 리턴
- getServerName() return String 연결할 때 사용한 서버주소 리턴
- getServerPort() return int 연결할 때 사용한 서버포트번호 리턴
+ getRemoteAddr() return String          클라이언트 컴퓨터의 ip주소 리턴
+ getContentLength() return long         클라이언트가 전송한 요청몸체의 길이 리턴
+ getCharacterEncoding() return String   클라이언트가 요청몸체를 전송할 때 사용한 문자열 인코딩을 리턴
+ getContentType() return String         클라이언트가 요청 몸체를 전송 할 때 사용한 문서타입을 리턴
+ getProtocol() return String            클라이언트가 요청에서 사용한 프로토콜을 리턴
+ getMethod() return String              클라이언트가 데이터를 전송할 때 사용한 요청방식 리턴
+ getContextPath() return String         JSP페이지가 속한 웹애플리케이션의 경로를 리턴
+ getServerName() return String          연결할 때 사용한 서버주소 리턴
+ getServerPort() return int             연결할 때 사용한 서버포트번호 리턴
 
  3) HTML 폼
  사용자가 데이터를 입력하기 위한 틀
@@ -51,10 +51,10 @@ response 객체를 이용하여 다른 페이지로 이동, 상태 코드 설정
 
  4) 요청 파라미터 읽기
  메소드 설명
- getParameter(String name) return String 입력 폼을 통해 전송된 이름이 'name'인 파라미터 값을 리턴, 값이 없을 시 null리턴
- getParameterValues(String name) return String[] 이름이 'name'인 파라미터의 모든 값을 배열로 리턴한다. 값이 없을 시 null리턴
- getParameterNames() return Enumeration 웹 브라우저가 전송한 파라미터 이름을 리턴
- getParameterMap() return Map 웹브라우저가 전송한 파라미터를 Map형식으로 리턴한다.
+ getParameter(String name) return String            입력 폼을 통해 전송된 이름이 'name'인 파라미터 값을 리턴, 값이 없을 시 null리턴
+ getParameterValues(String name) return String[]    이름이 'name'인 파라미터의 모든 값을 배열로 리턴한다. 값이 없을 시 null리턴
+ getParameterNames() return Enumeration             웹 브라우저가 전송한 파라미터 이름을 리턴
+ getParameterMap() return Map                       웹브라우저가 전송한 파라미터를 Map형식으로 리턴한다.
 
  5) GET 데이터 전송 방식
   get요청은 특정 자원을 단순히 가져 오는것을 의미함
@@ -74,11 +74,11 @@ response 객체를 이용하여 다른 페이지로 이동, 상태 코드 설정
 
  7) 요청 헤더 정보처리
  메소드 설명
- getHeader(String name) return String 지정한 이름의 헤더값을 리턴
+ getHeader(String name) return String       지정한 이름의 헤더값을 리턴
  getHeaders(String name) return Enumeration 지정한 이름의 모든 헤더값을 리턴
- getHeaderNames() return Enumeration 모든 헤더의 이름 리턴
- getIntHeader(String name) return int 지정한 헤더의 값을 정수로 리턴
- getDateHeader(String name) return long 지정한 헤더의 시간 값으로 리턴. 이 때 시간은 1970년 1월1일 이후로 흘러간 1/1000초 단위의 값을 가짐
+ getHeaderNames() return Enumeration        모든 헤더의 이름 리턴
+ getIntHeader(String name) return int       지정한 헤더의 값을 정수로 리턴
+ getDateHeader(String name) return long     지정한 헤더의 시간 값으로 리턴. 이 때 시간은 1970년 1월1일 이후로 흘러간 1/1000초 단위의 값을 가짐
 
 3. response 내장 객체
  1) response 내장 객체
