@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/JSP/JSP14_표준태그라이브러리" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JSP/JSP1_WEBandJAVA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JSP/JSP2_개발환경설정" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JSP/JSP3_JSP개요" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JSP/JSP5_RequestAndResponse" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/JSP/JSP4" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/JSP/JSP4_JSP동작원리" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/JSP/JSP5" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +165,8 @@
       <workItem from="1698736671609" duration="8764000" />
       <workItem from="1698846356294" duration="3416000" />
       <workItem from="1699093442693" duration="1953000" />
-      <workItem from="1699273827338" duration="6476000" />
+      <workItem from="1699273827338" duration="6496000" />
+      <workItem from="1699344373148" duration="11577000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -358,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699097067213</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="231106 JSP">
+      <created>1699282147547</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1699282147547</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,7 +394,8 @@
     <MESSAGE value="231028 cs" />
     <MESSAGE value="231030 jsp" />
     <MESSAGE value="231031 jsp" />
-    <option name="LAST_COMMIT_MESSAGE" value="231031 jsp" />
+    <MESSAGE value="231106 JSP" />
+    <option name="LAST_COMMIT_MESSAGE" value="231106 JSP" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
