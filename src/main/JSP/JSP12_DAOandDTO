@@ -1,0 +1,63 @@
+﻿학습개요
+DAO는 데이터베이스에 연결하고 SQL 구문을 실행하는 기능의 메서드를 제공하는 자바 클래스이다. DTO는 DAO의 메서드를 호출할 때 주고받아야 할 데이터를 표현하는 자바 클래스이다.
+DAO와 DTO를 이용하면 여러 JSP 페이지에 존재하는 중복 코드를 제거할 수 있고, 데이터베이스 연결이나 SQL 구문에 들어가는 민감한 정보를 JSP의 스크립트릿에서 감출 수 있다.
+
+학습목표
+11장의 JSP 프로그램의 문제를 이해할 수 있다.
+DTO 클래스를 작성할 수 있다.
+DAO 클래스를 작성할 수 있다.
+DAO와 DTO를 사용하여 데이터베이스 연동 프로그램을 작성할 수 있다.
+
+정리하기
+DTO와 DAO는 자바로 작성된 클래스이다.
+DTO는 테이블을 구성하는 필드에 대응되는 속성(멤버 변수)을 가지며 각 속성들에 대한 getter와 setter 메서드로 구성된다.
+DTO 객체는 한 개의 레코드에 해당하며 DAO 메소드를 통해 DBMS와 데이터를 주고받을 때 사용한다.
+DAO는 DBMS 연결이나 SQL 구문 실행 등에 필요한 메서드로 구성되고, JSP 프로그램에서 DBMS와 연동할 때 사용된다.
+DAO와 DTO를 사용하면 JSP의 스크립크릿에서 DBMS 연결 정보와 SQL 구문 등을 감출 수 있다.
+
+1. 개요
+ DAO (data access object)
+ - 데이터베이스에 연결하고 SQL구문을 실행하는 기능의 클래스
+ - getConnection(), selectAll(), selectOne(), updateOne(), deleteOne(), insertOne()
+
+ DTO (data transfer object)
+ - 주고받을 데이터를 저장할 때 사용하는 자바 클래스
+  DAO 메소드 호출에서 인자나 리턴값으로 사용됨
+  속성(필드)에 대한 읽기와 쓰기 메소드만을 제공
+ - DTO 객체는 특정 테이블에서 한개의 레코드를 표현
+  데이터를 저장할 테이블 구조를 표현
+ - 기본적으로 테이블 하나에 DTO 하나
+
+2. DTO 클래스 만들기
+
+3. DAO 클래스 만들기
+ getConnection() 메소드
+ - RDBMS 에 연결하고 연결정보를 리턴하는 메소드
+ - 예외 처리 코드가 필요함
+  Class.forName() 과 DriverManager.getConnection()
+  예외를 호출한 곳으로 전파하는 방식으로 예외 처리
+
+ selectAll() 메소드
+ - 테이블의 모든 레코드를 리턴하는 메소드
+ - 여러 개의 MemberDTO를 다루어야 함
+ - 리턴 유형은 ArrayList<MemberDTO>
+
+ selectOne() 메소드
+ - 테이블에서 조건에 맞는 레코드를 리턴하는 메소드
+ - 매개 변수로 id값이 주어짐
+ - 리턴 유형은 MemberDTO
+
+ updateOne() 메소드
+ - 한개의 레코드를 수정하는 메소드
+ - 매개 변수로 수정될 MemberDTO 객체가 주어짐
+
+ deleteOne()
+ - 테이블에서 한개의 레코드를 삭제하는 메소드
+ - 매개 변수로 id값이 주어짐
+
+ insertOne()
+ - 테이블에서 한개의 레코드를 삽입하는 메소드
+ - 매개 변수로 삽입될 MemberDTO객체가 주어짐
+
+4. JSP 프로그램 수정하기
+

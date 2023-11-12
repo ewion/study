@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/JSP/JSP12_DAOandDTO" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/JSP/JSP6" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/JSP/JSP6_내장객체와Scope" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/JSP/JSP7_모듈화된JSP페이지만들기" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/JSP/JSP7_모듈화된JSP페이지만들기" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +164,9 @@
       <workItem from="1699344373148" duration="17614000" />
       <workItem from="1699472627515" duration="651000" />
       <workItem from="1699484562677" duration="3500000" />
-      <workItem from="1699558550754" duration="3316000" />
+      <workItem from="1699558550754" duration="3347000" />
+      <workItem from="1699808876378" duration="486000" />
+      <workItem from="1699809468279" duration="2336000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -391,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699487649409</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="231110 JSP 내장객체Scope">
+      <created>1699562460460</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1699562460460</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,7 +425,8 @@
     <MESSAGE value="231106 JSP" />
     <MESSAGE value="231108 JSP" />
     <MESSAGE value="231109 JSP javaBean" />
-    <option name="LAST_COMMIT_MESSAGE" value="231109 JSP javaBean" />
+    <MESSAGE value="231110 JSP 내장객체Scope" />
+    <option name="LAST_COMMIT_MESSAGE" value="231110 JSP 내장객체Scope" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
