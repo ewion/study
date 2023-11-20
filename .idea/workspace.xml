@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="231113 JSP EL">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/study_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/main.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+    <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/컴퓨터구조/구조4_처리장치1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/컴퓨터구조/구조5_처리장치2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/JSP/JSP" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/JSP/JSP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Project1/proposal1" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Project1/proposal1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/컴퓨터구조/구조1" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/컴퓨터구조/구조1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +174,9 @@
       <workItem from="1699976530064" duration="3059000" />
       <workItem from="1700005146103" duration="53000" />
       <workItem from="1700054579920" duration="48000" />
-      <workItem from="1700054841536" duration="1455000" />
+      <workItem from="1700054841536" duration="1499000" />
+      <workItem from="1700368581479" duration="1754000" />
+      <workItem from="1700441272419" duration="9045000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -431,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699979681945</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="231116 JSP">
+      <created>1700082013134</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1700082013135</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,7 +467,8 @@
     <MESSAGE value="231113 JSP DAODTO" />
     <MESSAGE value="231113 JSP EL" />
     <MESSAGE value="231115 JSP" />
-    <option name="LAST_COMMIT_MESSAGE" value="231115 JSP" />
+    <MESSAGE value="231116 JSP" />
+    <option name="LAST_COMMIT_MESSAGE" value="231116 JSP" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
