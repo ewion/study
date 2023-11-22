@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/컴퓨터구조/구조6_제어장치1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/컴퓨터구조/구조6_제어장치와처리장치와의관계.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/컴퓨터구조/구조" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/컴퓨터구조/구조10_기억장치1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/컴퓨터구조/구조11_기억장치2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/컴퓨터구조/구조7_제어장치2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/컴퓨터구조/구조8_중앙처리장치1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/컴퓨터구조/구조9_중앙처리장치2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,6 +180,7 @@
       <workItem from="1700054841536" duration="1499000" />
       <workItem from="1700368581479" duration="1754000" />
       <workItem from="1700441272419" duration="12818000" />
+      <workItem from="1700524439182" duration="15313000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -456,14 +462,20 @@
       <option name="project" value="LOCAL" />
       <updated>1700481521609</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="231121 컴구1">
+      <created>1700524459382</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1700524459382</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="230813" />
     <MESSAGE value="230826" />
     <MESSAGE value="230907 study" />
     <MESSAGE value="230908 study" />
@@ -488,7 +500,8 @@
     <MESSAGE value="231115 JSP" />
     <MESSAGE value="231116 JSP" />
     <MESSAGE value="231120 컴구" />
-    <option name="LAST_COMMIT_MESSAGE" value="231120 컴구" />
+    <MESSAGE value="231121 컴구1" />
+    <option name="LAST_COMMIT_MESSAGE" value="231121 컴구1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
