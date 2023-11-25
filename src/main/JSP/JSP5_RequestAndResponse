@@ -85,11 +85,11 @@ response 객체를 이용하여 다른 페이지로 이동, 상태 코드 설정
  클라이언트에 응답 제공하기위해 HttpServletResponse 인터페이스를 구현한 객체
 
  response 내장 객체의 기능
- - 응답 헤더 정보 설정하기 setHeader()
- - 다른 페이지로 이동시키기 sendRedirect()
- - 쿠키 추가 addCookie()
- - 상태 코드 설정하기 setStatus()
- - 응답 몸체를 만들기 위한 출력 스트림 제공 getWriter() 또는 getOutputStream()
+ - setHeader() 응답 헤더 정보 설정하기
+ - sendRedirect() 다른 페이지로 이동시키기
+ - addCookie() 쿠키 추가
+ - setStatus() 상태 코드 설정하기
+ - getWriter() 또는 getOutputStream() 응답 몸체를 만들기 위한 출력 스트림 제공
 
  2) 응답 헤더 정보 설정하기
  메소드 설명
