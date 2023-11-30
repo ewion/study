@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템10_소프트웨어관리" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템11_셸스크립트1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템10_소프트웨어관리" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템10_소프트웨어관리" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +182,8 @@
       <workItem from="1700774661032" duration="12034000" />
       <workItem from="1700860059796" duration="4740000" />
       <workItem from="1701040510865" duration="4270000" />
-      <workItem from="1701225949497" duration="6198000" />
+      <workItem from="1701225949497" duration="6214000" />
+      <workItem from="1701295571105" duration="7447000" />
     </task>
     <task id="LOCAL-00001" summary="230813">
       <created>1691915609565</created>
@@ -518,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701229071020</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="231129 unix">
+      <created>1701260960653</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1701260960653</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
