@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템11_셸스크립트1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템12_셸스크립트2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템13_버전관리와Git" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템14_브랜치생성및병합" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템10_소프트웨어관리" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템10_소프트웨어관리" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,14 +183,9 @@
       <workItem from="1700860059796" duration="4740000" />
       <workItem from="1701040510865" duration="4270000" />
       <workItem from="1701225949497" duration="6214000" />
-      <workItem from="1701295571105" duration="7447000" />
-    </task>
-    <task id="LOCAL-00001" summary="230813">
-      <created>1691915609565</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1691915609565</updated>
+      <workItem from="1701295571105" duration="8579000" />
+      <workItem from="1701391742736" duration="2125000" />
+      <workItem from="1701404035906" duration="13700000" />
     </task>
     <task id="LOCAL-00002" summary="230813">
       <created>1692010672201</created>
@@ -528,14 +523,20 @@
       <option name="project" value="LOCAL" />
       <updated>1701260960653</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="231130 unix11">
+      <created>1701323771013</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1701323771014</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231004 UINX" />
     <MESSAGE value="231005 UINX1" />
     <MESSAGE value="231006 UINX9" />
     <MESSAGE value="231007 UINX" />
@@ -560,7 +561,8 @@
     <MESSAGE value="231125 JSP" />
     <MESSAGE value="231127 unix" />
     <MESSAGE value="231129 unix" />
-    <option name="LAST_COMMIT_MESSAGE" value="231129 unix" />
+    <MESSAGE value="231130 unix11" />
+    <option name="LAST_COMMIT_MESSAGE" value="231130 unix11" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
