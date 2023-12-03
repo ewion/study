@@ -27,6 +27,7 @@ ls [option][names] 파일과 디렉터리를 나열하는 명령. 사용빈도 �
     -t  --sort=time     최종 수정 시간 순으로 보여줌
 
 mkdir [options] directories 디렉터리를 만드는 명령
+find 7강
 git
    config
    init
