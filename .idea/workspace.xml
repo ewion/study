@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템7_텍스트편집vi편집기" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템8_파일시스템관리" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/자료구조/자료구조10_선택트리,숲,이진트리개수" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/자료구조/자료구조11_BS,Splay,AVL,BB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템4_파일과디렉터리" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UNIX시스템/UNIX시스템4_파일과디렉터리" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/자료구조/자료구조9_힙" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/자료구조/자료구조9_힙" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,14 +189,8 @@
       <workItem from="1701503391750" duration="11947000" />
       <workItem from="1701560299214" duration="599000" />
       <workItem from="1701580925523" duration="658000" />
-      <workItem from="1701589671589" duration="7010000" />
-    </task>
-    <task id="LOCAL-00005" summary="230813">
-      <created>1692186647615</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1692186647615</updated>
+      <workItem from="1701589671589" duration="7621000" />
+      <workItem from="1701647191178" duration="12062000" />
     </task>
     <task id="LOCAL-00006" summary="230813">
       <created>1692259578472</created>
@@ -535,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701533234369</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="231203 unix">
+      <created>1701596693435</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1701596693436</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
