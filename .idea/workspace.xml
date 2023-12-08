@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/필기/자료구조/자료구조8_스레드트리" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/필기/자료구조/자료구조1_개요,추상화,알고리즘" beforeDir="false" afterPath="$PROJECT_DIR$/필기/자료구조/자료구조1_개요,추상화,알고리즘" afterDir="false" />
-    </list>
+    <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,14 +191,7 @@
       <workItem from="1701741035340" duration="5209000" />
       <workItem from="1701758337923" duration="6901000" />
       <workItem from="1701826114303" duration="12504000" />
-      <workItem from="1701915464301" duration="6105000" />
-    </task>
-    <task id="LOCAL-00012" summary="230913 study">
-      <created>1694536573441</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1694536573441</updated>
+      <workItem from="1701915464301" duration="6126000" />
     </task>
     <task id="LOCAL-00013" summary="231004 UINX">
       <created>1696396202865</created>
@@ -540,14 +529,20 @@
       <option name="project" value="LOCAL" />
       <updated>1701875030601</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="231207 자료구조 스레드트리">
+      <created>1701961024486</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1701961024487</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231106 JSP" />
     <MESSAGE value="231108 JSP" />
     <MESSAGE value="231109 JSP javaBean" />
     <MESSAGE value="231110 JSP 내장객체Scope" />
@@ -572,7 +567,8 @@
     <MESSAGE value="231205 폴더정리" />
     <MESSAGE value="231205 자료구조 그래프1" />
     <MESSAGE value="231207 자료구조 연결리스트 트리" />
-    <option name="LAST_COMMIT_MESSAGE" value="231207 자료구조 연결리스트 트리" />
+    <MESSAGE value="231207 자료구조 스레드트리" />
+    <option name="LAST_COMMIT_MESSAGE" value="231207 자료구조 스레드트리" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
