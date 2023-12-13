@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/JSP/JSP정리" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C/C1_C언어의개요" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C/C2_자료형,선행처리기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C/C3_입출력함수와연산자1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSP/JSP정리" beforeDir="false" afterPath="$PROJECT_DIR$/JSP/JSP정리" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,25 +65,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/javapro/Study",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "File.Encoding",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/javapro/Study&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\javapro\Study" />
@@ -198,21 +201,9 @@
       <workItem from="1701915464301" duration="6126000" />
       <workItem from="1702033611127" duration="2038000" />
       <workItem from="1702105802179" duration="785000" />
-      <workItem from="1702106595129" duration="8908000" />
-    </task>
-    <task id="LOCAL-00014" summary="231005 UINX1">
-      <created>1696442122269</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1696442122269</updated>
-    </task>
-    <task id="LOCAL-00015" summary="231006 UINX9">
-      <created>1696582392770</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1696582392770</updated>
+      <workItem from="1702106595129" duration="9682000" />
+      <workItem from="1702256717533" duration="625000" />
+      <workItem from="1702433524796" duration="8489000" />
     </task>
     <task id="LOCAL-00016" summary="231007 UINX">
       <created>1696610835895</created>
@@ -543,14 +534,27 @@
       <option name="project" value="LOCAL" />
       <updated>1702033648567</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="231209 JSP 정리">
+      <created>1702117044438</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1702117044438</updated>
+    </task>
+    <task id="LOCAL-00064" summary="231209 JSP 정리">
+      <created>1702119155174</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1702119155174</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231109 JSP javaBean" />
     <MESSAGE value="231110 JSP 내장객체Scope" />
     <MESSAGE value="231113 JSP DAODTO" />
     <MESSAGE value="231113 JSP EL" />
@@ -575,7 +579,8 @@
     <MESSAGE value="231207 자료구조 연결리스트 트리" />
     <MESSAGE value="231207 자료구조 스레드트리" />
     <MESSAGE value="231208" />
-    <option name="LAST_COMMIT_MESSAGE" value="231208" />
+    <MESSAGE value="231209 JSP 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="231209 JSP 정리" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
