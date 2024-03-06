@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/C/C4_입출력함수와연산자2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C/C5_선택제어반복제어문" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/HTML10_JS" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C/C3_입출력함수와연산자1" beforeDir="false" afterPath="$PROJECT_DIR$/C/C3_입출력함수와연산자1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,21 +202,18 @@
       <workItem from="1702106595129" duration="9682000" />
       <workItem from="1702256717533" duration="625000" />
       <workItem from="1702433524796" duration="8595000" />
-      <workItem from="1702523527715" duration="5417000" />
-    </task>
-    <task id="LOCAL-00017" summary="231014 PL">
-      <created>1697281961887</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1697281961887</updated>
-    </task>
-    <task id="LOCAL-00018" summary="231020 cs">
-      <created>1697802283767</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1697802283767</updated>
+      <workItem from="1702523527715" duration="5433000" />
+      <workItem from="1702949282990" duration="2978000" />
+      <workItem from="1703033270150" duration="600000" />
+      <workItem from="1704176389411" duration="797000" />
+      <workItem from="1704435448002" duration="600000" />
+      <workItem from="1704669794220" duration="1199000" />
+      <workItem from="1704776707592" duration="1864000" />
+      <workItem from="1704876341572" duration="610000" />
+      <workItem from="1705384746357" duration="636000" />
+      <workItem from="1709563824967" duration="2220000" />
+      <workItem from="1709614774548" duration="5086000" />
+      <workItem from="1709694338165" duration="1796000" />
     </task>
     <task id="LOCAL-00019" summary="231020 cs">
       <created>1698159943280</created>
@@ -547,14 +544,27 @@
       <option name="project" value="LOCAL" />
       <updated>1702444951562</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="231214 C">
+      <created>1702572986601</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1702572986601</updated>
+    </task>
+    <task id="LOCAL-00067" summary="231214 C">
+      <created>1709640183667</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1709640183667</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231113 JSP DAODTO" />
     <MESSAGE value="231113 JSP EL" />
     <MESSAGE value="231115 JSP" />
     <MESSAGE value="231116 JSP" />
@@ -579,7 +589,8 @@
     <MESSAGE value="231208" />
     <MESSAGE value="231209 JSP 정리" />
     <MESSAGE value="231213 C" />
-    <option name="LAST_COMMIT_MESSAGE" value="231213 C" />
+    <MESSAGE value="231214 C" />
+    <option name="LAST_COMMIT_MESSAGE" value="231214 C" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
