@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/C/C5_선택제어반복제어문" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/HTML10_JS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/HTML11_문서객체모델브라우저객체모델" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -213,14 +212,8 @@
       <workItem from="1705384746357" duration="636000" />
       <workItem from="1709563824967" duration="2220000" />
       <workItem from="1709614774548" duration="5086000" />
-      <workItem from="1709694338165" duration="1796000" />
-    </task>
-    <task id="LOCAL-00019" summary="231020 cs">
-      <created>1698159943280</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1698159943280</updated>
+      <workItem from="1709694338165" duration="4698000" />
+      <workItem from="1710119701843" duration="1177000" />
     </task>
     <task id="LOCAL-00020" summary="231020 cs">
       <created>1698335988402</created>
@@ -558,14 +551,20 @@
       <option name="project" value="LOCAL" />
       <updated>1709640183667</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="240306 HTML">
+      <created>1709696357811</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1709696357811</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231113 JSP EL" />
     <MESSAGE value="231115 JSP" />
     <MESSAGE value="231116 JSP" />
     <MESSAGE value="231120 컴구" />
@@ -590,7 +589,8 @@
     <MESSAGE value="231209 JSP 정리" />
     <MESSAGE value="231213 C" />
     <MESSAGE value="231214 C" />
-    <option name="LAST_COMMIT_MESSAGE" value="231214 C" />
+    <MESSAGE value="240306 HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="240306 HTML" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
