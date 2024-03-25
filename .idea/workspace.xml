@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML5/HTML11_문서객체모델브라우저객체모델" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/데이터정보처리입문/2.데이터입력과점검" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -214,13 +214,11 @@
       <workItem from="1709614774548" duration="5086000" />
       <workItem from="1709694338165" duration="4698000" />
       <workItem from="1710119701843" duration="1177000" />
-    </task>
-    <task id="LOCAL-00020" summary="231020 cs">
-      <created>1698335988402</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1698335988402</updated>
+      <workItem from="1710723687905" duration="611000" />
+      <workItem from="1710760062286" duration="600000" />
+      <workItem from="1710818043485" duration="2426000" />
+      <workItem from="1710859733455" duration="614000" />
+      <workItem from="1711264557722" duration="4870000" />
     </task>
     <task id="LOCAL-00021" summary="231028 cs">
       <created>1698442572099</created>
@@ -558,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709696357811</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="240306 HTML">
+      <created>1710723694819</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1710723694819</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
