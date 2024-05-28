@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/소프트웨어공학/1.소프트웨어공학개요" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/소프트웨어공학/2.소프트웨어 프로세스" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘/필기1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/소프트웨어공학/3.프로젝트 관리" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/소프트웨어공학/4.소프트웨어 품질" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/소프트웨어공학/5.소프트웨어 테스트" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/HTML4_webForm" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/HTML4_webForm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알고리즘/3.정렬1" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘/3.정렬1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알고리즘/4.정렬2(퀵,합병)" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘/4.정렬2(퀵,합병)" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,14 +233,8 @@
       <workItem from="1716455699778" duration="8498000" />
       <workItem from="1716553399934" duration="3704000" />
       <workItem from="1716604134898" duration="8781000" />
-      <workItem from="1716803043423" duration="7400000" />
-    </task>
-    <task id="LOCAL-00026" summary="231030 jsp">
-      <created>1698627863375</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1698627863375</updated>
+      <workItem from="1716803043423" duration="7426000" />
+      <workItem from="1716888219312" duration="8614000" />
     </task>
     <task id="LOCAL-00027" summary="231031 jsp">
       <created>1698756388314</created>
@@ -581,14 +572,20 @@
       <option name="project" value="LOCAL" />
       <updated>1716465657316</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="240528 SE">
+      <created>1716830561853</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1716830561853</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231122 컴구" />
     <MESSAGE value="231124 컴구" />
     <MESSAGE value="231125 JSP" />
     <MESSAGE value="231127 unix" />
@@ -613,7 +610,8 @@
     <MESSAGE value="240401 유비 블록체인핀테크" />
     <MESSAGE value="240520 알고리즘" />
     <MESSAGE value="240523 html" />
-    <option name="LAST_COMMIT_MESSAGE" value="240523 html" />
+    <MESSAGE value="240528 SE" />
+    <option name="LAST_COMMIT_MESSAGE" value="240528 SE" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
