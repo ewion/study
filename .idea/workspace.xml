@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/C/C10_배열과포인터3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C/C11.구조체와공용체1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C/C12.구조체와공용체2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C/C13.파일처리함수" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C/C14.파일처리함수2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C/C15.메모리동적할당" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C/C8_배열과포인터1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/소프트웨어공학/6.사용자요구 분석" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/소프트웨어공학/7.소프트웨어 설계" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/소프트웨어공학/8.코딩과 소프트웨어 유지보수" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/소프트웨어공학/9.객체지향 분석과 설계" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/소프트웨어공학/10.유스케이스다이어그램 및 명세" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘/10.그래프3(벨만-포드,플로이드,포드-풀커슨)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘/11.동적 프로그래밍" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘/12.스트링 알고리즘1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘/9.그래프2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C/C9_배열과포인터2" beforeDir="false" afterPath="$PROJECT_DIR$/C/C9_배열과포인터2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/소프트웨어공학/9.객체지향 분석과 설계" beforeDir="false" afterPath="$PROJECT_DIR$/소프트웨어공학/9.객체지향 분석과 설계" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,14 +239,8 @@
       <workItem from="1716803043423" duration="7426000" />
       <workItem from="1716888219312" duration="8636000" />
       <workItem from="1716967468614" duration="8640000" />
-      <workItem from="1717052966312" duration="24476000" />
-    </task>
-    <task id="LOCAL-00028" summary="231031 jsp">
-      <created>1699097067213</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1699097067213</updated>
+      <workItem from="1717052966312" duration="32010000" />
+      <workItem from="1717205544807" duration="14037000" />
     </task>
     <task id="LOCAL-00029" summary="231106 JSP">
       <created>1699282147547</created>
@@ -590,14 +578,20 @@
       <option name="project" value="LOCAL" />
       <updated>1716910560438</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="240531 S/W E">
+      <created>1717137191358</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1717137191358</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231125 JSP" />
     <MESSAGE value="231127 unix" />
     <MESSAGE value="231129 unix" />
     <MESSAGE value="231130 unix11" />
@@ -622,7 +616,8 @@
     <MESSAGE value="240523 html" />
     <MESSAGE value="240528 SE" />
     <MESSAGE value="240529 se" />
-    <option name="LAST_COMMIT_MESSAGE" value="240529 se" />
+    <MESSAGE value="240531 S/W E" />
+    <option name="LAST_COMMIT_MESSAGE" value="240531 S/W E" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
