@@ -1,0 +1,71 @@
+﻿1. 개요
+ HTTP 통신을 위한 도구로 RESTful API 웹서비스와의 상호작용을 쉽게 외부 도메인에서 데이터를 가져오거나 전송할 때 사용되는 스프링 프레임워크 클래스
+ 동기식 방식으로 JSON, XML 등의 데이터 형식으로 통신
+ 응답을 받을 때 까지 블로킹(동기식 방식), 요청과 응답이 완료될 때 까지 다음 코드로 진행하지 않음
+ 원격 서버와 통신할 땐 응답을 기다리는 동안 대기
+
+ - 참조 Docs
+ https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.html
+ - 참조
+ https://adjh54.tistory.com/234
+
+2. 특징
+ HTTP 요청 및 응답에 대해 동기식 요청으로 블로킹하여 데이터를 주고받음 (동기식 요청 + 블로킹 요청)
+ - 블로킹 요청 : 요청을 보내면 결과가 반환될 때 까지 대기를 하는 것을 의미
+ - WebClient 라이브러리는 비동기식 요청 + 논 블로킹 요청
+ - 비교
+비교	        동기식(Synchronous)	                                비동기식(Asynchronous)
+실행 모델	요청과 응답이 동시에 일어남	                            요청과 응답이 동시에 일어나지 않음
+블로킹	    요청에 대한 응답이 올 때까지 블로킹 됨	                요청에 대한 응답을 기다리지 않고 다른 작업을 수행할 수 있음
+성능	        대량의 요청이 동시에 발생하면 성능 저하가 발생할 수 있음	    대량의 요청을 효율적으로 처리할 수 있음
+코드 복잡도	비교적 간단하고 직관적임	                            코드가 복잡해지고 디버깅이 어려움
+
+ HTTP 요청 및 응답에 대한 다양한 메소드 제공
+ - GET, POST, PUT, PATCH, DELETE 등
+ - 지원 메소드 목록
+Method	                HTTP Method     Return Type	        설명
+getForObject()	        GET	            Object	            GET 요청에 대한 결과를 객체로 반환합니다
+getForEntity()	        GET	            ResponseEntity	    GET 요청에 대한 결과를 ResponseEntity로 반환합니다
+postForLocation()	    POST	        URI	                POST 요청에 대한 결과로 헤더에 저장된 URI 반환합니다
+postForObject()	        POST	        Object	            POST 요청에 대한 결과를 객체로 반환합니다
+postForEntity()	        POST	        ResponseEntity	    POST 요청에 대한 결과를 ResponseEntity로 반환합니다
+put()	                PUT	            void	            PUT 요청을 실행합니다
+patchForObject()	    PATCH	        Object	            PATCH 요청을 실행하고 결과를 객체로 반환합니다
+delete()	            DELETE	        void	            DELETE 요청을 실행합니다
+headForHeaders()	    HEADER	        HttpHeaders	        헤더 정보를 추출하고 HTTP HEAD 메서드를 사용합니다
+optionsForAllow()	    OPTIONS	        Set<HttpMethod>	    지원되는 HTTP 메서드를 추출합니다
+exchange()	            any	            ResponseEntity	    헤더를 생성하고 모든 요청 방법을 허용합니다
+execute()	            any	            T	                요청/응답 콜백을 수정합니다
+
+ HTTP 요청 및 응답을 자동 변환, 역직렬화
+ - 이를 위해 MessageConverter 지원
+ - MessageConverter는 요청 및 응답 바디의 데이터 형식 변환, 요청 및 응답 헤더의 콘텐츠 형식 설정
+ - 직렬화
+  자바 객체를 외부 저장소에 저장하거나 네트워크를 통해 전송하기 위해 객체를 데이터 스트림으로 변환하는 과정, 이 과정에서 객체의 필드값들이 데이터 스트림에 사용됨.
+ - 역직렬화
+  데이터 스트림으로부터 객체를 재구성하는 과정, 이 과정에서 데이터 스트림에서 읽은 값들이 객체의 필드값으로 설정됨.
+  이 과정에서 데이터 스트림이 어떤 객체인지 알아야 하므로 객체의 클래스 정보가 함께 전달되어야 함.
+
+ HTTP 요청및 응답을 다양한 방식으로 처리 가능
+ - JSON, XML 및 바이너리 데이터 형식과 같은 데이터 형식으로 응답 처리를 할 수 있다
+ - 요청 및응답의 부분을 추출하거나 수정 가능
+ - 지원 형식
+헤더	            이름 값	            설명
+Accept	        -	                클라이언트가 서버에서 받기 원하는 미디어 타입을 지정합니다.
+Accept	        text/plain	        일반적인 텍스트 형식을 지정합니다.
+Accept	        application/json	JSON 형식을 지정합니다.
+Accept	        application/xml	    XML 형식을 지정합니다.
+Content-Type	-	                서버에서 클라이언트로 보내는 미디어 타입을 지정합니다.
+Content-Type	text/plain	        일반적인 텍스트 형식을 지정합니다.
+Content-Type	application/json	JSON 형식을 지정합니다.
+Content-Type	application/xml	    XML 형식을 지정합니다.
+ - 예제
+ RestTemplate restTemplate = new RestTemplate();
+ HttpHeaders headers = new HttpHeaders();
+ headers.add("Content-Type", "application/json");
+ headers.add("Authorization", "Bearer <access_token>");
+
+ HTTP 요청 및 응답의 로깅 제공
+
+
+

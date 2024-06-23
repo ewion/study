@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/study_ear_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/study_ear_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/study_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/study_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootStudy/파일 설명" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알고리즘/1.개요" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘/1.알고리즘 소개1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알고리즘/2.알고리즘 소개2" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘/2.알고리즘 소개2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알고리즘/필기1" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘/필기1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobys_Spring_Boot/sec2-1_스프링부트시작" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootStudy/sec2-1_스프링부트시작" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobys_Spring_Boot/sec3-5_프론트컨트롤러" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobys_Spring_Boot/sec4-2_의존오브젝트 추가" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootStudy/RestTemplate" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +86,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\javapro\Study\SpringBootStudy" />
       <recent name="C:\javapro\Study" />
       <recent name="C:\javapro\Study\필기" />
       <recent name="C:\javapro\Study\src\main" />
@@ -244,14 +243,12 @@
       <workItem from="1718016052319" duration="483000" />
       <workItem from="1718280350985" duration="109000" />
       <workItem from="1718417365153" duration="20575000" />
-      <workItem from="1718504265506" duration="4570000" />
-    </task>
-    <task id="LOCAL-00030" summary="231108 JSP">
-      <created>1699408938744</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1699408938744</updated>
+      <workItem from="1718504265506" duration="4776000" />
+      <workItem from="1718536044776" duration="606000" />
+      <workItem from="1718608630774" duration="597000" />
+      <workItem from="1718619019828" duration="49000" />
+      <workItem from="1719034258050" duration="2110000" />
+      <workItem from="1719150500245" duration="914000" />
     </task>
     <task id="LOCAL-00031" summary="231108 JSP">
       <created>1699436023640</created>
@@ -589,14 +586,20 @@
       <option name="project" value="LOCAL" />
       <updated>1718016079735</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="240616 알고리즘">
+      <created>1718527355332</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1718527355333</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231127 unix" />
     <MESSAGE value="231129 unix" />
     <MESSAGE value="231130 unix11" />
     <MESSAGE value="231130 ~unix14" />
@@ -621,7 +624,8 @@
     <MESSAGE value="240528 SE" />
     <MESSAGE value="240529 se" />
     <MESSAGE value="240531 S/W E" />
-    <option name="LAST_COMMIT_MESSAGE" value="240531 S/W E" />
+    <MESSAGE value="240616 알고리즘" />
+    <option name="LAST_COMMIT_MESSAGE" value="240616 알고리즘" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
