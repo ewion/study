@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringBootStudy/파일 설명" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docker/도커" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tobys_Spring_Boot/sec2-1_스프링부트시작" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootStudy/sec2-1_스프링부트시작" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tobys_Spring_Boot/sec3-5_프론트컨트롤러" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tobys_Spring_Boot/sec4-2_의존오브젝트 추가" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootStudy/RestTemplate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootStudy/파일 설명" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootStudy/파일 설명" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +78,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -248,14 +246,10 @@
       <workItem from="1718608630774" duration="597000" />
       <workItem from="1718619019828" duration="49000" />
       <workItem from="1719034258050" duration="2110000" />
-      <workItem from="1719150500245" duration="914000" />
-    </task>
-    <task id="LOCAL-00031" summary="231108 JSP">
-      <created>1699436023640</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1699436023640</updated>
+      <workItem from="1719150500245" duration="2304000" />
+      <workItem from="1719213624236" duration="2893000" />
+      <workItem from="1719311966357" duration="332000" />
+      <workItem from="1719313157691" duration="990000" />
     </task>
     <task id="LOCAL-00032" summary="231109 JSP javaBean">
       <created>1699487649409</created>
@@ -593,14 +587,20 @@
       <option name="project" value="LOCAL" />
       <updated>1718527355333</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="240623 study 스프링부트">
+      <created>1719151492185</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1719151492185</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231129 unix" />
     <MESSAGE value="231130 unix11" />
     <MESSAGE value="231130 ~unix14" />
     <MESSAGE value="231130 ~unix" />
@@ -625,7 +625,8 @@
     <MESSAGE value="240529 se" />
     <MESSAGE value="240531 S/W E" />
     <MESSAGE value="240616 알고리즘" />
-    <option name="LAST_COMMIT_MESSAGE" value="240616 알고리즘" />
+    <MESSAGE value="240623 study 스프링부트" />
+    <option name="LAST_COMMIT_MESSAGE" value="240623 study 스프링부트" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
