@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Docker/도커" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS/단위테스트" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS/직렬화" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS/코드스타일" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootStudy/파일 설명" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootStudy/파일 설명" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker/도커" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/도커" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +76,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -249,14 +252,15 @@
       <workItem from="1719150500245" duration="2304000" />
       <workItem from="1719213624236" duration="2893000" />
       <workItem from="1719311966357" duration="332000" />
-      <workItem from="1719313157691" duration="990000" />
-    </task>
-    <task id="LOCAL-00032" summary="231109 JSP javaBean">
-      <created>1699487649409</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1699487649409</updated>
+      <workItem from="1719313157691" duration="1038000" />
+      <workItem from="1719389089385" duration="1507000" />
+      <workItem from="1719399328338" duration="823000" />
+      <workItem from="1719479952479" duration="4903000" />
+      <workItem from="1719629506979" duration="986000" />
+      <workItem from="1720135804105" duration="1277000" />
+      <workItem from="1720246226644" duration="599000" />
+      <workItem from="1720316717881" duration="599000" />
+      <workItem from="1720450207820" duration="1386000" />
     </task>
     <task id="LOCAL-00033" summary="231110 JSP 내장객체Scope">
       <created>1699562460460</created>
@@ -594,14 +598,20 @@
       <option name="project" value="LOCAL" />
       <updated>1719151492185</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="240625 study docker">
+      <created>1719323887439</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1719323887439</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231130 unix11" />
     <MESSAGE value="231130 ~unix14" />
     <MESSAGE value="231130 ~unix" />
     <MESSAGE value="231203 unix" />
@@ -626,7 +636,8 @@
     <MESSAGE value="240531 S/W E" />
     <MESSAGE value="240616 알고리즘" />
     <MESSAGE value="240623 study 스프링부트" />
-    <option name="LAST_COMMIT_MESSAGE" value="240623 study 스프링부트" />
+    <MESSAGE value="240625 study docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="240625 study docker" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
