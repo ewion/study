@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/CS/단위테스트" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS/직렬화" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS/코드스타일" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docker/도커이미지" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docker/도커컨테이너통신&amp;도커파일" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docker/도커컴포즈" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docker/컨테이너환경에서JVM메모리설정" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker/도커" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/도커" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/DesignPattern1" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/DesignPattern1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker/도커" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/도커기초&amp;명령어" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootStudy/sec2-1_스프링부트시작" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootStudy/sec2-1_스프링부트시작" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootStudy/파일 설명" beforeDir="false" afterPath="$PROJECT_DIR$/CS/파일 설명" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,11 +91,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\javapro\Study\CS" />
       <recent name="C:\javapro\Study\SpringBootStudy" />
       <recent name="C:\javapro\Study" />
       <recent name="C:\javapro\Study\필기" />
       <recent name="C:\javapro\Study\src\main" />
-      <recent name="C:\javapro\Study\src\main\java\Tobys_Spring_Boot" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="CoingTests" />
@@ -260,14 +264,10 @@
       <workItem from="1720135804105" duration="1277000" />
       <workItem from="1720246226644" duration="599000" />
       <workItem from="1720316717881" duration="599000" />
-      <workItem from="1720450207820" duration="1386000" />
-    </task>
-    <task id="LOCAL-00033" summary="231110 JSP 내장객체Scope">
-      <created>1699562460460</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1699562460460</updated>
+      <workItem from="1720450207820" duration="1405000" />
+      <workItem from="1720521618865" duration="6205000" />
+      <workItem from="1720601131870" duration="3039000" />
+      <workItem from="1720825963024" duration="3920000" />
     </task>
     <task id="LOCAL-00034" summary="231113 JSP DAODTO">
       <created>1699816754067</created>
@@ -605,14 +605,20 @@
       <option name="project" value="LOCAL" />
       <updated>1719323887439</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="240709">
+      <created>1720457514535</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1720457514536</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231130 ~unix14" />
     <MESSAGE value="231130 ~unix" />
     <MESSAGE value="231203 unix" />
     <MESSAGE value="231203 자료구조" />
@@ -637,7 +643,8 @@
     <MESSAGE value="240616 알고리즘" />
     <MESSAGE value="240623 study 스프링부트" />
     <MESSAGE value="240625 study docker" />
-    <option name="LAST_COMMIT_MESSAGE" value="240625 study docker" />
+    <MESSAGE value="240709" />
+    <option name="LAST_COMMIT_MESSAGE" value="240709" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
