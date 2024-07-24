@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Docker/도커이미지" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docker/도커컨테이너통신&amp;도커파일" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docker/도커컴포즈" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docker/컨테이너환경에서JVM메모리설정" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Proxy_Pattern" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootStudy/Dependency_Injection_의존성주입" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootStudy/IoC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootStudy/annotations" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/DesignPattern1" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/DesignPattern1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker/도커" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/도커기초&amp;명령어" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootStudy/sec2-1_스프링부트시작" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootStudy/sec2-1_스프링부트시작" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootStudy/파일 설명" beforeDir="false" afterPath="$PROJECT_DIR$/CS/파일 설명" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootStudy/sec2-1_스프링부트시작" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootStudy/SpringBoot개요" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,14 +264,11 @@
       <workItem from="1720450207820" duration="1405000" />
       <workItem from="1720521618865" duration="6205000" />
       <workItem from="1720601131870" duration="3039000" />
-      <workItem from="1720825963024" duration="3920000" />
-    </task>
-    <task id="LOCAL-00034" summary="231113 JSP DAODTO">
-      <created>1699816754067</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1699816754067</updated>
+      <workItem from="1720825963024" duration="4535000" />
+      <workItem from="1721042249364" duration="1890000" />
+      <workItem from="1721430241803" duration="1309000" />
+      <workItem from="1721530416601" duration="6958000" />
+      <workItem from="1721809240266" duration="601000" />
     </task>
     <task id="LOCAL-00035" summary="231113 JSP EL">
       <created>1699878142126</created>
@@ -612,14 +606,20 @@
       <option name="project" value="LOCAL" />
       <updated>1720457514536</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="240713 docker">
+      <created>1720867607192</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1720867607192</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231130 ~unix" />
     <MESSAGE value="231203 unix" />
     <MESSAGE value="231203 자료구조" />
     <MESSAGE value="231205 자료구조" />
@@ -644,7 +644,8 @@
     <MESSAGE value="240623 study 스프링부트" />
     <MESSAGE value="240625 study docker" />
     <MESSAGE value="240709" />
-    <option name="LAST_COMMIT_MESSAGE" value="240709" />
+    <MESSAGE value="240713 docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="240713 docker" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
