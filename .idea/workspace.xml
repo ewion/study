@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Proxy_Pattern" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootStudy/Dependency_Injection_의존성주입" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootStudy/IoC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootStudy/annotations" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D_Modeling/3DMax/3dMax기본기능" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/Transpose_Subtool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/Zbrush기본기능" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/단축키" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/브러쉬" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AWS/AWS개요" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootStudy/sec2-1_스프링부트시작" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootStudy/SpringBoot개요" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,11 +89,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\javapro\Study\3D_Modeling\ZBrush" />
       <recent name="C:\javapro\Study\CS" />
       <recent name="C:\javapro\Study\SpringBootStudy" />
       <recent name="C:\javapro\Study" />
       <recent name="C:\javapro\Study\필기" />
-      <recent name="C:\javapro\Study\src\main" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="CoingTests" />
@@ -268,14 +269,12 @@
       <workItem from="1721042249364" duration="1890000" />
       <workItem from="1721430241803" duration="1309000" />
       <workItem from="1721530416601" duration="6958000" />
-      <workItem from="1721809240266" duration="601000" />
-    </task>
-    <task id="LOCAL-00035" summary="231113 JSP EL">
-      <created>1699878142126</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1699878142126</updated>
+      <workItem from="1721809240266" duration="6249000" />
+      <workItem from="1722136463994" duration="1056000" />
+      <workItem from="1722144573850" duration="822000" />
+      <workItem from="1722145777238" duration="2771000" />
+      <workItem from="1722163844515" duration="3187000" />
+      <workItem from="1722240027595" duration="3504000" />
     </task>
     <task id="LOCAL-00036" summary="231115 JSP">
       <created>1699979681945</created>
@@ -613,14 +612,20 @@
       <option name="project" value="LOCAL" />
       <updated>1720867607192</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="240724 spring boot">
+      <created>1721814035243</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1721814035243</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231203 unix" />
     <MESSAGE value="231203 자료구조" />
     <MESSAGE value="231205 자료구조" />
     <MESSAGE value="231205 폴더정리" />
@@ -645,7 +650,8 @@
     <MESSAGE value="240625 study docker" />
     <MESSAGE value="240709" />
     <MESSAGE value="240713 docker" />
-    <option name="LAST_COMMIT_MESSAGE" value="240713 docker" />
+    <MESSAGE value="240724 spring boot" />
+    <option name="LAST_COMMIT_MESSAGE" value="240724 spring boot" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

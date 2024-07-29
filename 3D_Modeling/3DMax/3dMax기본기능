@@ -1,0 +1,73 @@
+﻿숫자 1,2,3,4
+ 버택스, 엣지, 폴리곤, 보더 메뉴 빠른이동
+
+Editable Poly
+ Vertices
+ - Remove
+ - Break
+ - Extrude
+ - Weld
+ - target Weld
+ - Chamfer
+ - Connect
+
+ Edge
+ - Insert Bertex
+ - Remove
+ - Weld
+ - target Weld
+ - Chamfer
+ - bridge
+ - Connect
+
+ Border
+ - cap
+  뚫린 공간을 매꿔서 폴리곤 생성
+  이 항목 말고는 자주 사용X
+
+ Polygon (마야의 Face)
+ - insert Vertex
+  면에 버택스 생성, 해당 면을 구성하는 버택스와 새로 생성된 버택스를 연결하는 엣지도 생성됨
+ - Extrude
+  면을 익스투르드
+ - Bevel
+  익스투르드 한 후 사이즈 조절도 가능
+ - Inset
+  익스트루드 하지 않고 해당 면 내에서 페이스를 뽑아냄
+ - Bridge
+  따로 떨어진 면을 연결
+ - Flip
+  폴리곤의 면을 반전
+ - Hinge From Edge
+  엣지 기준으로 면을 들어주거나 내려줌
+ Element (자주 사용되지 않음)
+
+ Edit Geometry
+ - slice Plane
+  절단 해줄 때 사용
+ - Cut
+  면을 임의로 자를 수 있음
+  자주 사용
+ - constraint
+  면이나 엣지 내에서만 타겟이 이동 가능 하도록 함
+  마야의 cnt 이동 인듯?
+  엣지와 페이스에서 많이 사용
+
+ Stack
+ 모디파이어에 올리는 애드온 같은 것
+ 스택을 올리면 오브젝트에 선택한 효과가 적용됨
+ 모디파이어 리스트에서 확인 가능함
+ 자주 사용하는 메뉴는 버튼으로 꺼내 바로가기로 사용하는 것이 좋음
+ 자주 사용하는 모디파이어
+  Shell 두께를 주는 모디파이어, 뒷면이 있다면 앞면이 생김
+  Symmetry 좌우대칭 작업, 하단의 show end result 클릭해서 실시간 확인 가능
+  Push 수축이나 확장시켜주는 기능
+  TurboSmooth 가장 많이 사용되는 메뉴, 부드럽게 만들어 줌
+  Unwrap UVW
+ 등등
+
+ 바로가기 사용법
+ 모디파이어 리스트 밑 밑의 configgure Modifier Sets 아이콘 클릭
+ -> Show button 선택하면 바로가기 활성화
+ -> configgure Modifier Sets에서 바로가기로 올려 둘 기능 선택 가능(검색해서 선택한 다음 드로그앤드랍)
+
