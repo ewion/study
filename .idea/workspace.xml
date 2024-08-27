@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56363f2-a6a9-4720-b527-a6b659d4bc7d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/WorkFlow_animeCharacter" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/버그 이슈" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/Z_Modeler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/테크닉" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D_Modeling/텍스쳐/맵의종류" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C++/c++1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3D_Modeling/ZBrush/WorkFlow" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3D_Modeling/ZBrush/단축키" beforeDir="false" afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/단축키" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3D_Modeling/ZBrush/Dynamash_Zremesher" beforeDir="false" afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/Dynamash_Zremesher" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3D_Modeling/ZBrush/WorkFlow_animeCharacter" beforeDir="false" afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/WorkFlow_animeCharacter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3D_Modeling/ZBrush/Zbrush기본기능" beforeDir="false" afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/Zbrush기본기능" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3D_Modeling/ZBrush/버그 이슈" beforeDir="false" afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/버그 이슈" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3D_Modeling/ZBrush/베벨vs크리스" beforeDir="false" afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/Geometry_EdgeLoop" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3D_Modeling/ZBrush/브러쉬" beforeDir="false" afterPath="$PROJECT_DIR$/3D_Modeling/ZBrush/브러쉬" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3D_Modeling/의문점" beforeDir="false" afterPath="$PROJECT_DIR$/3D_Modeling/의문점" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,14 +288,14 @@
       <workItem from="1722753465771" duration="623000" />
       <workItem from="1722841979939" duration="2267000" />
       <workItem from="1722928575914" duration="2214000" />
-      <workItem from="1723019432247" duration="667000" />
-    </task>
-    <task id="LOCAL-00039" summary="231120 컴구">
-      <created>1700481507655</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1700481507655</updated>
+      <workItem from="1723019432247" duration="1282000" />
+      <workItem from="1723103222338" duration="1198000" />
+      <workItem from="1723253410476" duration="8262000" />
+      <workItem from="1723351499320" duration="1841000" />
+      <workItem from="1723792066114" duration="1639000" />
+      <workItem from="1723866025405" duration="9256000" />
+      <workItem from="1724216708230" duration="1313000" />
+      <workItem from="1724734176423" duration="2880000" />
     </task>
     <task id="LOCAL-00040" summary="231120 컴구">
       <created>1700481521609</created>
@@ -627,14 +633,20 @@
       <option name="project" value="LOCAL" />
       <updated>1722647849021</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="240807 modeling_Zbrush_wandah">
+      <created>1723038996648</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1723038996648</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231205 자료구조 그래프1" />
     <MESSAGE value="231207 자료구조 연결리스트 트리" />
     <MESSAGE value="231207 자료구조 스레드트리" />
     <MESSAGE value="231208" />
@@ -659,7 +671,8 @@
     <MESSAGE value="240729 modeling_Zbrush" />
     <MESSAGE value="240731 modeling_Zbrush_wandah" />
     <MESSAGE value="240803 modeling_Zbrush_wandah" />
-    <option name="LAST_COMMIT_MESSAGE" value="240803 modeling_Zbrush_wandah" />
+    <MESSAGE value="240807 modeling_Zbrush_wandah" />
+    <option name="LAST_COMMIT_MESSAGE" value="240807 modeling_Zbrush_wandah" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

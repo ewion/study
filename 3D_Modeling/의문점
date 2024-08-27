@@ -1,0 +1,14 @@
+
+albedo / base / diffuse     컬러 관련
+
+specular                    반사 관련, 정반사
+
+roughness / glossiness      반사 관련
+
+metallic                    반사 관련, 금속의 질감
+
+bump / displacement         벡터값 계산하여 디테일 구현
+
+normal                      벡터값 계산하여 디테일 구현
+
+opacity                     알파 관련 온 오프가필요한 오브젝트(ex 나뭇잎)
